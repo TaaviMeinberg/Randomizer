@@ -2,9 +2,11 @@
 This android application allows the user to generate a random number from the range he/she specifies (max value is 10). The generated number is then displayed in the application.
 
 Main page:
+
 ![freshApp](/img/appStart.PNG)
 
 Displaying the generated number:
+
 ![displayNumber](/img/appRolled.PNG)
 
 ## Initialization
@@ -12,6 +14,7 @@ To initialize this project, clone this repository in Your Android Studio.
 
 ## Tutorial
 This app was made using this tutorial:
+
 [![Tutorial Link](http://img.youtube.com/vi/EOfCEhWq8sg/0.jpg)](http://www.youtube.com/watch?v=EOfCEhWq8sg)
 
 The tutorial does a great job at conveying the basic concepts of Android Studio, while not overloading the viewer with coding specifics.
